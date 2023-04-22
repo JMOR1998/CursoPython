@@ -1,0 +1,45 @@
+- Dato: 
+    - ¿Qué es?
+        Es una de las cosas basicas que usa un programa, una letra o un numero. 
+        Por Ej: 5 o 44.99 (Datos numéricos)
+
+- Variable:
+    - ¿Qué es?
+        Es un nombre que se refiere a un dato.
+        Una de las características más potentes de un lenguaje de programación es la capacidad de manipular variables.
+        Por Ej: edad = 20 | mensaje = "Bienvenido"
+    - Regla de las variables:
+        No se pueden iniciar con un número.
+        No pueden llevar carácteres especiales. (Por Ej: ~ | ñ | . | etc.)
+        No pueden llevar el nombre de palabras reservadas de un lenguaje.(Por Ej: en python print)
+
+- Tipos de datos:
+    - Enteros
+        Por Ej: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0
+    - Flotante
+        Por Ej: π = 3,1415
+    - Cadena
+        Por Ej: "Hola"
+
+- Operaciones aritméticas:
+    - Sumar
+        10 + 1
+    - Restar
+        10 - 1
+    - Multiplicar
+        10 * 1
+    - Dividir
+        10 / 1
+    - División entera
+        10 // 1
+    - Exponenciación
+        10 ** 1
+
+- Jerarquía de operaciones:
+    - ¿Qué es?
+        Es el orden en el que se van a realizar las operaciones.
+        
+        * Paréntesis -> Es lo primero que se realiza en una operación.
+        * Exponenciación -> Es el segundo proceso que se realiza.
+        * Multiplicación y División -> Se realiza en tercer orden.
+        * Suma y Resta -> Inicia de izquierda a derecha.
