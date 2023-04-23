@@ -43,3 +43,16 @@
         * Exponenciación -> Es el segundo proceso que se realiza.
         * Multiplicación y División -> Se realiza en tercer orden.
         * Suma y Resta -> Inicia de izquierda a derecha.
+
+- Cadenas:
+    Ej:
+        "M o n t y   P y t h  o n"
+         0 1 2 3 4 5 6 7 8 9 10 11
+    - Debanado de cadenas:
+        * Consiste en mostrar el contenido de una cadena de manera segmentada.
+            [0:5] = "Monty"
+            [ :3] = "Mon"
+            [3: ] = "hon"
+    - Reglas de las cadenas:
+        * Importante escribir las cadenas con comillas dobles ("") o con comillas simples ('').
+        * No confundir un número en comillas, a un número sin comillas.
