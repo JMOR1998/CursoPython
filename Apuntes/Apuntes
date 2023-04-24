@@ -56,3 +56,10 @@
     - Reglas de las cadenas:
         * Importante escribir las cadenas con comillas dobles ("") o con comillas simples ('').
         * No confundir un número en comillas, a un número sin comillas.
+- Condicion:
+    Ej:
+        if a>0:
+            print("A es un número positivo")
+        else:
+            print("A es un número negativo")
+
